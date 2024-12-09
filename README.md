@@ -1,4 +1,7 @@
-## Hi there 👋
+## Heyo 🎈
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=2867B2)](http://www.linkedin.com/in/real_cwong)
+
+Nothing to see here as of now...
 
 <!--
 **xleonx0x/xleonx0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
